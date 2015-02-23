@@ -1,0 +1,10 @@
+{
+    "elever": [
+        {"namn": "Anton",
+            "hårfärg": "blond"
+        },
+        {"namn": "Stina",
+            "hårfärg": "blond"
+        }
+    ]
+}
