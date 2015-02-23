@@ -10,7 +10,7 @@ $(document).ready(function() {
             function(newjson) {
                 console.log(newjson.elever);
                 
-                $("body").append(newjson.elever, "hej");
+                $("body").append(newjson.elever[0].namn);
             }
     );
     
